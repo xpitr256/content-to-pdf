@@ -2,7 +2,7 @@
   "name": "content-to-pdf",
   "version": "1.0.0",
   "description": "This is a module that converts an SRI resource to pdf",
-  "main": "index.js",
+  "main": "./src/client.js",
   "scripts": {
     "test": "make test"
   },
@@ -13,8 +13,7 @@
   "devDependencies": {
     "mocha": "~2.2.4",
     "chai": "~3.2.0",
-    "chai-as-promised": "5.1.x",
-    "chai-datetime": "1.4.x"
+    "chai-as-promised": "5.1.x"
   },
   "dependencies": {
     "q": "1.4.x",
