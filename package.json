@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/xpitr256/content-to-pdf.git"
   },
+  "dependencies": {
+    "q": "1.4.x",
+    "needle-retry": "~1.1.0"
+  },
   "keywords": [
     "content",
     "pdf"
