@@ -4,11 +4,17 @@
   "description": "This is a module that converts an SRI resource to pdf",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xpitr256/content-to-pdf.git"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.4",
+    "chai": "~3.2.0",
+    "chai-as-promised": "5.1.x",
+    "chai-datetime": "1.4.x"
   },
   "dependencies": {
     "q": "1.4.x",
