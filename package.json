@@ -1,0 +1,23 @@
+{
+  "name": "content-to-pdf",
+  "version": "1.0.0",
+  "description": "This is a module that converts an SRI resource to pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpitr256/content-to-pdf.git"
+  },
+  "keywords": [
+    "content",
+    "pdf"
+  ],
+  "author": "Pablo Rodriguez Massuh <pablomassuh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xpitr256/content-to-pdf/issues"
+  },
+  "homepage": "https://github.com/xpitr256/content-to-pdf#readme"
+}
